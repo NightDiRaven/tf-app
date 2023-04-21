@@ -1,4 +1,4 @@
-# nemo-app
+# tf-app
 
 ## Project setup
 ```
