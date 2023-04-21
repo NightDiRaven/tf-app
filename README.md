@@ -30,5 +30,8 @@ npm run test:e2e
 npm run lint
 ```
 
+### Github Pages
+See [https://nightdiraven.github.io/tf-app/](https://nightdiraven.github.io/tf-app/)
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
