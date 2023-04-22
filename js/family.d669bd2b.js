@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktf_app"]=self["webpackChunktf_app"]||[]).push([[471],{4992:function(n,a,e){e.r(a),e.d(a,{default:function(){return p}});var r=e(3396);function t(n,a){return(0,r.wg)(),(0,r.iD)("h1",null,"This is an family page")}var u=e(89);const f={},i=(0,u.Z)(f,[["render",t]]);var p=i}}]);
+//# sourceMappingURL=family.d669bd2b.js.map
