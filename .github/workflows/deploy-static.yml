@@ -18,6 +18,9 @@ concurrency:
   group: 'pages'
   cancel-in-progress: true
 
+env:
+  CI_PROJECT_NAME: '/tf-app/'
+
 jobs:
   build:
     name: Build
