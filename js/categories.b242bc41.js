@@ -1,2 +1,2 @@
 "use strict";(self["webpackChunktf_app"]=self["webpackChunktf_app"]||[]).push([[267],{2333:function(n,e,r){r.r(e),r.d(e,{default:function(){return f}});var t=r(3396);function a(n,e){return(0,t.wg)(),(0,t.iD)("h1",null,"This is an categories page")}var u=r(89);const s={},c=(0,u.Z)(s,[["render",a]]);var f=c}}]);
-//# sourceMappingURL=categories.6918c761.js.map
+//# sourceMappingURL=categories.b242bc41.js.map
