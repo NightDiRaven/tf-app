@@ -18,7 +18,12 @@
   <main>
     <router-view />
   </main>
+    <ModalsContainer />
 </template>
+
+<script setup  lang="ts">
+import { ModalsContainer } from 'vue-final-modal'
+</script>
 
 <style module lang="scss">
 html {

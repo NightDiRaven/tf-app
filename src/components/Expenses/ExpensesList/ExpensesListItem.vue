@@ -14,7 +14,7 @@
 
 <script setup lang="ts">
 import { IExpense } from "@/stores/expenses/IExpense";
-import ExpensesListItemCategories from "@/components/Expenses/ExpensesListItemCategories.vue";
+import ExpensesListItemCategories from "@/components/Expenses/ExpensesList/ExpensesListItemCategories.vue";
 
 defineProps<{
   item?: IExpense;
@@ -30,7 +30,6 @@ defineProps<{
   flex-wrap: wrap;
   gap: 15px;
   border-radius: 15px;
-  backdrop-filter: blur(5px);
   background: rgba(241, 239, 239, 0.55);
 }
 

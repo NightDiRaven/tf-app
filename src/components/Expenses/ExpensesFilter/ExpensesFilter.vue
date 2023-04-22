@@ -1,14 +1,19 @@
 <template>
     <div :class="$style.el">
-        <BaseButton>Категории</BaseButton>
-        <BaseButton>Семья</BaseButton>
-        <BaseButton>Дата</BaseButton>
+        Фильтры:
+        <div :class="$style.content">
+            <ExpensesFilterCategories />
+        </div>
     </div>
 </template>
 
 <script setup lang="ts">
 
 import BaseButton from "@/components/Base/BaseButton.vue";
+import ExpensesFilterCategories from "@/components/Expenses/ExpensesFilter/ExpensesFilterList.vue";
+
+
+
 </script>
 
 <style module lang="scss">
